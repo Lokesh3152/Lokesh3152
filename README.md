@@ -1,18 +1,16 @@
 ### Hi there 👋
-### I'm Lokesh
+# I'm Lokesh
+### A passionate designer and developer trying to tackle realworld problems through technology.
 
-
-<!--
-**Lokesh3152/Lokesh3152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-In 2021, I made 46 contributions and modified 500 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/lokesh3152
 Here are some ideas to get you started:
+- 🔭 I’m currently working on Web design for blissroms
+- 🌱 I’m currently learning Flutter and UI/UX design
+- 👯 I’m looking to collaborate on app development and UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+In 2021, I made 46 contributions and modified 500 lines of code.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh3152&layout=compact)](https://github.com/Lokesh3152/github-readme-stats)
