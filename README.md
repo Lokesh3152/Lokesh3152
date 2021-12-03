@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm Lokesh
+In 2021, I made 46 contributions and modified 500 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/lokesh3152
 
 <!--
 **Lokesh3152/Lokesh3152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
