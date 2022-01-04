@@ -1,10 +1,10 @@
 ### Hi there 👋
 # I'm Lokesh
-### A passionate designer and developer trying to tackle realworld problems through technology.
+## A passionate designer and developer trying to tackle realworld problems through technology.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on Web design for blissroms
-- 🌱 I’m currently learning Flutter and UI/UX design
+- 🔭 I’m currently working on Web design for blissroms.org
+- 🌱 I’m currently learning Flutter and UX design
 - 👯 I’m looking to collaborate on app development and UI
 
 
