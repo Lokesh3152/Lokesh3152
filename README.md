@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Lokesh
-## A passionate designer and developer trying to tackle realworld problems through technology.
+### A passionate designer and developer trying to tackle realworld problems through technology.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Web design for blissroms.org
