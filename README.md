@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Web design for blissroms.org
-- 🌱 I’m currently learning Flutter and UX design
+- 🌱 I’m currently learning Flutter and Product design
 - 👯 I’m looking to collaborate on app development and UI
 
 
